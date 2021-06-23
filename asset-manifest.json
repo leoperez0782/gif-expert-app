@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/leoperez0782/gif-expert-app/static/css/main.c7cddf7c.chunk.css",
+    "main.js": "/leoperez0782/gif-expert-app/static/js/main.11e37c20.chunk.js",
+    "main.js.map": "/leoperez0782/gif-expert-app/static/js/main.11e37c20.chunk.js.map",
+    "runtime-main.js": "/leoperez0782/gif-expert-app/static/js/runtime-main.1414ce00.js",
+    "runtime-main.js.map": "/leoperez0782/gif-expert-app/static/js/runtime-main.1414ce00.js.map",
+    "static/css/2.a1596f27.chunk.css": "/leoperez0782/gif-expert-app/static/css/2.a1596f27.chunk.css",
+    "static/js/2.b1ded107.chunk.js": "/leoperez0782/gif-expert-app/static/js/2.b1ded107.chunk.js",
+    "static/js/2.b1ded107.chunk.js.map": "/leoperez0782/gif-expert-app/static/js/2.b1ded107.chunk.js.map",
+    "index.html": "/leoperez0782/gif-expert-app/index.html",
+    "static/css/2.a1596f27.chunk.css.map": "/leoperez0782/gif-expert-app/static/css/2.a1596f27.chunk.css.map",
+    "static/css/main.c7cddf7c.chunk.css.map": "/leoperez0782/gif-expert-app/static/css/main.c7cddf7c.chunk.css.map",
+    "static/js/2.b1ded107.chunk.js.LICENSE.txt": "/leoperez0782/gif-expert-app/static/js/2.b1ded107.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1414ce00.js",
+    "static/css/2.a1596f27.chunk.css",
+    "static/js/2.b1ded107.chunk.js",
+    "static/css/main.c7cddf7c.chunk.css",
+    "static/js/main.11e37c20.chunk.js"
+  ]
+}
